@@ -1,0 +1,10 @@
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\SeaWars\SeaWars\bin\Debug\SeaWars.exe.config
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\SeaWars\SeaWars\bin\Debug\SeaWars.exe
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\SeaWars\SeaWars\bin\Debug\SeaWars.pdb
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\SeaWars\SeaWars\obj\Debug\SeaWars.csprojAssemblyReference.cache
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\SeaWars\SeaWars\obj\Debug\SeaWars.Form1.resources
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\SeaWars\SeaWars\obj\Debug\SeaWars.Properties.Resources.resources
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\SeaWars\SeaWars\obj\Debug\SeaWars.csproj.GenerateResource.cache
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\SeaWars\SeaWars\obj\Debug\SeaWars.csproj.CoreCompileInputs.cache
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\SeaWars\SeaWars\obj\Debug\SeaWars.exe
+C:\Users\Agony\Desktop\Gendalf\Модуль 2\SeaWars\SeaWars\obj\Debug\SeaWars.pdb
